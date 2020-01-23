@@ -2,7 +2,7 @@ menuOption = None
 
 mylist = []
 
-menuText = '''
+menuText = ''' 
 1.) Add item
 2.) Print list
 3.) Remove item by number
